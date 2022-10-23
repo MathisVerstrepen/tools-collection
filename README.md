@@ -1,7 +1,7 @@
-# Usefull Tools Collection
+# Useful Tools Collection
 
-A collection of all the tools that have and are useful to me during my experience as a web developer.
-Constantly updated.
+A collection of all the tools that have and are useful to me during my experience as a web developer.  
+> Constantly updated.
 
 ## 🎨 CSS
 
@@ -18,8 +18,8 @@ Constantly updated.
 ## 💭 Inspirations
 
 * **UI elements** collection - [Universe](https://uiverse.io/all)
-* **Landing Page** Design Inspiration - [Landingfolio](https://www.landingfolio.com/)
-* Huge collection of good looking website - [Pixelfika](https://pixelfika.com/)
+* **Landing Page** design inspiration - [Landingfolio](https://www.landingfolio.com/)
+* Huge collection of good looking websites - [Pixelfika](https://pixelfika.com/)
 
 ## 🖥️ Softwares
 
@@ -28,5 +28,5 @@ Constantly updated.
 ## 🏗️ Others
 
 * Display your viewport - [What is my viewport](https://whatismyviewport.com/)
-* 100% free *fonts* collection - [Fontshare](https://www.fontshare.com/)
+* 100% free **fonts** collection - [Fontshare](https://www.fontshare.com/)
 * Multiple developer roadmaps - [Roadmap](https://roadmap.sh/)
