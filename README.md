@@ -18,7 +18,12 @@
 * **Landing Page** Design Inspiration - [Landingfolio](https://www.landingfolio.com/)
 * Huge collection of good looking website - [Pixelfika](https://pixelfika.com/)
 
+## Softwares
+
+* API design and test - [Insomnia](https://insomnia.rest/)
+
 ## 🏗️ Others
 
 * Display your viewport - [What is my viewport](https://whatismyviewport.com/)
 * 100% free *fonts* collection - [Fontshare](https://www.fontshare.com/)
+* Multiple developer roadmaps - [Roadmap](https://roadmap.sh/)
