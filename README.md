@@ -1,5 +1,8 @@
 # Usefull Tools Collection
 
+A collection of all the tools that have and are useful to me during my experience as a web developer.
+Constantly updated.
+
 ## 🎨 CSS
 
 * **Grid** visual cheatsheet - [Grid Malven](https://grid.malven.co/)
@@ -12,13 +15,13 @@
 * **Icon** collection for web design - [Tabler Icons](https://tabler-icons.io/)
 * Generate unique **SVG design** assets - [Haikei](https://app.haikei.app/)
 
-## Inspirations
+## 💭 Inspirations
 
 * **UI elements** collection - [Universe](https://uiverse.io/all)
 * **Landing Page** Design Inspiration - [Landingfolio](https://www.landingfolio.com/)
 * Huge collection of good looking website - [Pixelfika](https://pixelfika.com/)
 
-## Softwares
+## 🖥️ Softwares
 
 * API design and test - [Insomnia](https://insomnia.rest/)
 
