@@ -32,3 +32,4 @@ A collection of all the tools that have and are useful to me during my experienc
 * 100% free **fonts** collection - [Fontshare](https://www.fontshare.com/)
 * Multiple developer roadmaps - [Roadmap](https://roadmap.sh/)
 * Collection of WebDev **cheatsheets** - [Devhints](https://devhints.io/)
+* Javascript one liner - [1loc](https://1loc.dev/)
