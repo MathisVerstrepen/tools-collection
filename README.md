@@ -15,6 +15,7 @@ A collection of all the tools that have and are useful to me during my experienc
 * **Icon** collection for web design - [Tabler Icons](https://tabler-icons.io/)
 * Generate unique **SVG design** assets - [Haikei](https://app.haikei.app/)
 * Collection of **SVG generators** - [fffuel](https://fffuel.co/)
+* Collection of **SVG logos** - [svgporn](https://svgporn.com/)
 
 ## 💭 Inspirations
 
